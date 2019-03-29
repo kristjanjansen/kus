@@ -1,0 +1,11 @@
+{
+  "name": "kus",
+  "version": "1.0.0",
+  "private": "true",
+  "main": "index.js",
+  "bin": "index.js",
+  "dependencies": {
+    "chrome-headless-render-pdf": "^1.4.1",
+    "marked": "^0.3.6"
+  }
+}
