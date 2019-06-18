@@ -1,6 +1,6 @@
 ## Kus
 
-NodeJS commandline utility to convert Markdown files to PDF
+NodeJS commandline utility to convert Markdown files to PDF. Spiritual successor to https://github.com/kristjanjansen/md2html
 
 ### Installation
 
