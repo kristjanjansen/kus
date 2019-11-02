@@ -6,6 +6,6 @@
   "bin": "index.js",
   "dependencies": {
     "chrome-headless-render-pdf": "^1.4.1",
-    "marked": "^0.3.6"
+    "marked": "^0.3.18"
   }
 }
